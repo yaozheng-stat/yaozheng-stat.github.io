@@ -27,5 +27,8 @@ redirect_from:
 - [*Institute of Mathematical Statistics (IMS)*](https://imstat.org/) New Researcher Travel Award, 2022
 - Excellence in Teaching Recognition, University of Connecticut, Fall 2019
 
+## CV
+You can download my CV [here](https://yaozheng-stat.github.io/files/CV.pdf).
 
-
+<object data="{{ site.url }}{{ site.baseurl }}/files/CV.pdf" type="application/pdf" width="700px" height="700px">
+</object>
