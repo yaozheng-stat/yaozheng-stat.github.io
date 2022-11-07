@@ -3,6 +3,7 @@ layout: archive
 title: "Biography"
 permalink: /cv/
 author_profile: true
+paperurl: 'http://yaozheng-stat.github.io/files/CV.pdf'
 redirect_from:
   - /resume
 ---
@@ -26,6 +27,10 @@ redirect_from:
 - [*Institute of Mathematical Statistics (IMS)*](https://imstat.org/) New Researcher Travel Award, 2022
 - Excellence in Teaching Recognition, University of Connecticut, Fall 2019
 
-```
-<embed src="/blog/images/xxx.pdf" type="application/pdf">
+```html
+<object data="http://yaozheng-stat.github.io/files/CV.pdf" type="application/pdf" width="700px" height="700px">
+    <embed src="http://yaozheng-stat.github.io/files/CV.pdf">
+        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="http://yaozheng-stat.github.io/files/CV.pdf">Download PDF</a>.</p>
+    </embed>
+</object>
 ```
