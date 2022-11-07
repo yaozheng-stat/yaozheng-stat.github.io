@@ -28,9 +28,6 @@ redirect_from:
 - Excellence in Teaching Recognition, University of Connecticut, Fall 2019
 
 ```html
-<object data="http://yaozheng-stat.github.io/files/CV.pdf" type="application/pdf" width="700px" height="700px">
-    <embed src="http://yaozheng-stat.github.io/files/CV.pdf">
-        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="http://yaozheng-stat.github.io/files/CV.pdf">Download PDF</a>.</p>
-    </embed>
+<object data="{{ site.url }}{{ site.baseurl }}/files/CV.pdf" type="application/pdf" width="700px" height="700px">
 </object>
 ```
