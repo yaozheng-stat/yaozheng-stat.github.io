@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Biography"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -9,51 +9,23 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+## Education
 
-Work experience
-======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+[*Department of Statistics and Actuarial Science*](https://saasweb.hku.hk/), [*University of Hong Kong*](https://www.hku.hk/): 
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+- Ph.D. in Statistics, 2017
+- B.Sc. (First-class honours) in Actuarial Science, 2013
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+## Academic Positions Held
+* Assistant Professor, [*Department of Statistics*](https://statistics.uconn.edu/), [*University of Connecticut*](https://uconn.edu/), 2019 - present
+* Postdoctoral Fellow, [*Department of Statistics*](http://www.stat.purdue.edu), [*Purdue University*](http://www.purdue.edu), 2017 - 2019
+
+## Honors and Awards
+
+- Elected Member of the [*International Statistical Institute (ISI)*](https://www.isi-web.org/), Since 2022
+- [*Institute of Mathematical Statistics (IMS)*](https://imstat.org/) New Researcher Travel Award, 2022
+- Excellence in Teaching Recognition, University of Connecticut, Fall 2019
+
+```
+<embed src="/blog/images/xxx.pdf" type="application/pdf">
+```
