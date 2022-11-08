@@ -14,6 +14,9 @@ Our research team is actively looking for motivated students to work on the meth
 
 # Research Areas
 
+| <img src="https://yaozheng-stat.github.io/images/fig_macro20.png" style="zoom:60%;" /> | <img src="https://yaozheng-stat.github.io/images/fig_mat_ts.png" style="zoom:20%;" />| <img src="https://yaozheng-stat.github.io/images/fig_tensor_ts.png" style="zoom:20%;" /> |
+| ---- | ---- | ---- |
+|High-dimensional Time Series | Tensors Methods | |
 
 
 Robust inference for heavy-tailed time series
@@ -22,12 +25,6 @@ Robust inference for heavy-tailed time series
 
 Other topics
 
-| <img src="https://yaozheng-stat.github.io/images/fig_macro20.png" style="zoom:60%;" /> |<img src="https://yaozheng-stat.github.io/images/fig_mat_ts.png" style="zoom:60%;" /> <img src="https://yaozheng-stat.github.io/images/fig_tensor_ts.png" style="zoom:60%;" />     |
-| ------------------------------------------------------------ | ---- |
-| High-dimensional Time Series|Tensors Methods|
-
-|      |      |
-| ---- | ---- |
 |Quantile Regression for Conditional Heteroscedastic Time Series|      |
 
 
