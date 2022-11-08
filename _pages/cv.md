@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Biography"
-permalink: /cv/
+permalink: /biography/
 author_profile: true
 paperurl: 'http://yaozheng-stat.github.io/files/CV.pdf'
 redirect_from:
@@ -19,7 +19,7 @@ redirect_from:
 
 ## Academic Positions Held
 * Assistant Professor, [*Department of Statistics*](https://statistics.uconn.edu/), [*University of Connecticut*](https://uconn.edu/), 2019 - present
-* Postdoctoral Fellow, [*Department of Statistics*](http://www.stat.purdue.edu), [*Purdue University*](http://www.purdue.edu), 2017 - 2019
+* Post-doc Researcher and Visiting Assistant Professor, [*Department of Statistics*](http://www.stat.purdue.edu) and School of Industrial Engineering, [*Purdue University*](http://www.purdue.edu), 2017 - 2019
 
 ## Honors and Awards
 
