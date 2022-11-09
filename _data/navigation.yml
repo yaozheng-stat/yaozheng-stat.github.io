@@ -15,7 +15,8 @@ main:
   - title: "Biography"
     url: /biography/
     
-- title: "Teaching"
+  - title: "Teaching"
     url: /teaching/ 
+    
   # - title: "Guide"
     # url: /markdown/
