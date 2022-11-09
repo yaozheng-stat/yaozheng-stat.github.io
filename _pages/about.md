@@ -21,7 +21,7 @@ Our research team is actively looking for motivated students to work on the meth
 
 | Quantile Regression for Conditional Heteroscedastic Time Series | Robust Inference for Heavy-tailed Time Series |
 | :----------------------------------------------------------: | :----------------------------------------------------------: |
-| <img src="https://yaozheng-stat.github.io/images/fig_ForecastPlot.png" style="zoom:50%;" /> | <img src="https://yaozheng-stat.github.io/images/fig_Pickands.png" style="zoom:50%;" /> |
+| <img src="https://yaozheng-stat.github.io/images/fig_ForecastPlot.png" style="zoom:60%;" /> | <img src="https://yaozheng-stat.github.io/images/fig_Pickands.png" style="zoom:50%;" /> |
 
 Other Areas & Keywords: Nonasymptotic Theory for Time Series, Bootstrap Inference, Factor Modeling
 
