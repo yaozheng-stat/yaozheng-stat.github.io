@@ -30,7 +30,6 @@ For more information, please visit my [Research](https://yaozheng-stat.github.io
 
 ## Contact Information
 
-*Office:  Room 307, Philip E. Austin Building*
-*215 Glenbrook Rd. U-4120, Storrs, CT 06269-4120*
+*Office:  Room 307, Philip E. Austin Building, 215 Glenbrook Rd. U-4120, Storrs, CT 06269-4120*
 *Email:*  *yao* dot *zheng* at *uconn* dot *edu*
 
