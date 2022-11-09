@@ -8,9 +8,6 @@ main:
     
   - title: "Team"
     url: /team/
-    
-  - title: "Teaching"
-    url: /teaching/  
         
   # - title: "Blog Posts"
     # url: /year-archive/
@@ -18,5 +15,7 @@ main:
   - title: "Biography"
     url: /biography/
     
+- title: "Teaching"
+    url: /teaching/ 
   # - title: "Guide"
     # url: /markdown/
