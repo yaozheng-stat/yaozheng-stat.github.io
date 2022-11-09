@@ -11,7 +11,7 @@ redirect_from:
 
 ## University of Connecticut
 
-- STAT 3675Q Statistical Computing, Spring 2021
+- STAT 3675Q Statistical Computing, Spring 2022
 
 - STAT 4825/5825 Applied Time Series, Fall 2021 & 2022
 
