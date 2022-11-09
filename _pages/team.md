@@ -7,14 +7,17 @@ author_profile: true
 
 {% include base_path %}
 
-<br/> 
+ 
 
 <img src="https://yaozheng-stat.github.io/images/profile.png" style="zoom:20%;" /> 
-Shibo Li, PhD student
+Shibo Li 
+PhD Student
 
 <img src="https://yaozheng-stat.github.io/images/profile.png" style="zoom:20%;" /> 
-Christine Nguyen, Undergraduate student (Mathematics/Statistics), McNair Scholar
+Christine Nguyen
+Undergraduate Student (Mathematics/Statistics), McNair Scholar
 
 <img src="https://yaozheng-stat.github.io/images/profile.png" style="zoom:20%;" /> 
-Miles Kee, Undergraduate student (Statistics)
+Miles Kee 
+Undergraduate Student (Statistics)
 
