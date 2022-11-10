@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am an assistant professor in the [Department of Statistics](https://statistics.uconn.edu/) at the [University of Connecticut](https://uconn.edu/). I received my Ph.D. and Bachelor's degree from the Department of Statistics and Actuarial Science at the University of Hong Kong. Prior to joining UConn in 2019, I spent two years at Purdue University as a post-doc researcher and visiting assistant professor. My research interests focus on [time series analysis](https://en.wikipedia.org/wiki/Time_series) and its intersections with other areas in statistics (e.g., high-dimensional statistics, tensors, quantile regression), econometrics, machine learning, and other disciplines involving learning from temporal or dependent data.
+I am an assistant professor in the [Department of Statistics](https://statistics.uconn.edu/) at the [University of Connecticut](https://uconn.edu/). I received my Ph.D. and Bachelor's degree from the Department of Statistics and Actuarial Science at the University of Hong Kong. Prior to joining UConn in 2019, I spent two years at Purdue University as a post-doc researcher and visiting assistant professor. My research interests focus on [time series analysis](https://yaozheng-stat.github.io/research/) and its intersections with other areas in statistics (e.g., high-dimensional statistics, tensors, quantile regression), econometrics, machine learning, and other disciplines involving learning from temporal or dependent data.
 
 Our research team is actively looking for motivated students to work on the methodology, theory, and applications of time series analysis.
 
