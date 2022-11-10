@@ -1,5 +1,9 @@
 # main links links
 main:
+
+  - title: "Biography"
+    url: /biography/
+    
   - title: "Research"
     url: /research/
 
@@ -11,9 +15,6 @@ main:
         
   # - title: "Blog Posts"
     # url: /year-archive/
-    
-  - title: "Biography"
-    url: /biography/
     
   - title: "Teaching"
     url: /teaching/ 

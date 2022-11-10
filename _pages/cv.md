@@ -12,10 +12,7 @@ redirect_from:
 
 ## Education
 
-[*Department of Statistics and Actuarial Science*](https://saasweb.hku.hk/), [*University of Hong Kong*](https://www.hku.hk/): 
-
-- Ph.D. in Statistics, 2017
-- B.Sc. (First-class honours) in Actuarial Science, 2013
+Ph.D. (2017) and B.Sc. (2013), [*Department of Statistics and Actuarial Science*](https://saasweb.hku.hk/), [*University of Hong Kong*](https://www.hku.hk/)
 
 ## Academic Positions Held
 * Assistant Professor, [*Department of Statistics*](https://statistics.uconn.edu/), [*University of Connecticut*](https://uconn.edu/), 2019 - present
@@ -27,7 +24,7 @@ redirect_from:
 - [*Institute of Mathematical Statistics (IMS)*](https://imstat.org/) New Researcher Travel Award, 2022
 - Excellence in Teaching Recognition, University of Connecticut, Fall 2019
 
-## CV
+You can download my CV [here]({{ site.url }}{{ site.baseurl }}/files/CV.pdf).
 
 <object data="{{ site.url }}{{ site.baseurl }}/files/CV.pdf" type="application/pdf" width="700px" height="700px">
 <embed src="{{ site.url }}{{ site.baseurl }}/files/CV.pdf">
