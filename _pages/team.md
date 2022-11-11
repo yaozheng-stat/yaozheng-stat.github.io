@@ -12,8 +12,10 @@ author_profile: true
 <img src="https://yaozheng-stat.github.io/images/profile.png" style="zoom:20%;" /> 
 Shibo Li, PhD Student
 
-<img src="https://yaozheng-stat.github.io/images/profile.png" style="zoom:20%;" />
-Christine Nguyen, Undergraduate Student (Mathematics/Statistics), McNair Scholar
+<img src="https://yaozheng-stat.github.io/images/profile_Christine.jpg" style="zoom:11%;" />
+Christine Nguyen, Undergraduate Student (Mathematics/Statistics), McNair Scholar 
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png)](https://www.linkedin.com/in/christinenguyen0721/)
+
 
 ## Past Members
 
