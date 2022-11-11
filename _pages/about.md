@@ -14,14 +14,43 @@ Our research team is actively looking for motivated students to work on the meth
 
 # Research Areas
 
-|High-dimensional Time Series | Tensor Methods |
-| :----: | :----: |
-| <img src="https://yaozheng-stat.github.io/images/fig_macro20.png" style="zoom:65%;" /> | <img src="https://yaozheng-stat.github.io/images/fig_tensor_ts.png" style="zoom:30%;" /> |
+### High-dimensional Time Series 
+
+<table  style="border:none" >
+  <tr width="50%" style="border:none">
+    <td style="border:none">High-dimensional time series data are observations of $N$ interdependent variables over time, where $N$ is relatively large (may grow with the time length $T$).  Such high dimension presents a problem for modeling and inference due to the curse of dimensionality, highly complex dependence structure, and challenge of model interpretability. </td>
+    <td width="50%" style="border:none"><img src="https://yaozheng-stat.github.io/images/fig_macro20.png" align="float:center;"  style="zoom:100%;" /></td>
+  </tr>
+</table>
 
 
-| Quantile Regression for Conditional Heteroscedastic Time Series | Robust Inference for Heavy-tailed Time Series |
-| :----------------------------------------------------------: | :----------------------------------------------------------: |
-| <img src="https://yaozheng-stat.github.io/images/fig_ForecastPlot.png" style="zoom:55%;" /> | <img src="https://yaozheng-stat.github.io/images/fig_Pickands.png" style="zoom:50%;" /> |
+
+### Tensor Methods 
+
+<table  style="border:none" >
+  <tr width="50%" style="border:none">
+    <td style="border:none">Tensors (or multidimensional arrays) are natural higher-order extensions of matrices, and many modern large time series datasets can be viewed as tensor-valued time series.  Tensor-based models achieve effective dimension reduction while extracting  intrinsic (dynamic) factor structures along different directions.</td>
+    <td width="50%" style="border:none"> <img src="https://yaozheng-stat.github.io/images/fig_tensor_ts.png"  align="float:center;"  style="zoom:100%;" /></td>
+  </tr>
+</table>
+
+### Quantile Regression for Conditional Heteroscedastic Time Series 
+
+<table  style="border:none" >
+  <tr width="50%" style="border:none">
+    <td style="border:none"> In risk management, market risk measures (e.g., the Value at Risk) are commonly constructed based on the quantiles of asset returns. Thus, a fundamental task for risk quantification is to forecast quantiles of financial time series.  To this end, powerful tools can be developed by combining quantile regression with time series modeling. </td>
+    <td width="50%" style="border:none"> <img src="https://yaozheng-stat.github.io/images/fig_ForecastPlot.png"  align="float:center;"  style="zoom:100%;" /></td>
+  </tr>
+</table>
+
+### Robust Inference for Heavy-tailed Time Series 
+
+<table  style="border:none" >
+  <tr width="50%" style="border:none">
+    <td style="border:none">Heavy-tailed distribution (or extreme values) is a key feature of financial time series data, which often renders commonly used inference tools invalid. It is thus important to develop methods that not only are robust to heavy tails but can efficiently capture the dynamic structure of the time series.</td>
+    <td width="50%" style="border:none"> <img src="https://yaozheng-stat.github.io/images/fig_QQplot.png"  align="float:center;"  style="zoom:100%;" /></td>
+  </tr>
+</table>
 
 Other Areas & Keywords: Nonasymptotic Theory for Time Series, Bootstrap Inference, Factor Modeling
 
