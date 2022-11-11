@@ -13,7 +13,7 @@ redirect_from:
 
 - [STAT 3675Q Statistical Computing](https://catalog.uconn.edu/course-search/course/STAT/3675Q), Spring 2022
 
-- [STAT 4825/5825 Applied Time Series](https://catalog.uconn.edu/directory-of-courses/course/STAT/4825/), Fall 2021 & 2022
+- [STAT 4825/5825 Applied Time Series]({{ site.url }}{{ site.baseurl }}/files/Teaching/Syllabus_4825_Fall2022.pdf), Fall 2021 & 2022
 
 - STAT/BIST 5515 Design of Experiments, Fall 2019-2022
 
