@@ -25,7 +25,7 @@ author_profile: true
 
 ### Quantile Regression for Conditional Heteroscedastic Time Series
 
-- Quantile autoregressive conditional heteroscedasticity (with Qianqian Zhu, Songhua Tan, and Guodong Li), Preprint.
+- Quantile autoregressive conditional heteroscedasticity, Preprint.
 - [Hybrid quantile regression estimation for time series models with conditional heteroscedasticity](https://yaozheng-stat.github.io/files/Paper/JRSSB18.pdf) (with Qianqian Zhu, Guodong Li, and Zhijie Xiao), *Journal of the Royal Statistical Society: Series B,* 80, 975-993, 2018.  [<*Supplement*>](https://yaozheng-stat.github.io/files/Paper/JRSSB18_supp.pdf) [<*R code*>](https://gdli-stat.github.io/files/HQGARCH.html)
 - [Linear double autoregression](https://yaozheng-stat.github.io/files/Paper/JOE18.pdf) (with Qianqian Zhu and Guodong Li), *Journal of Econometrics.* 207, 162–174, 2018.  [<*Supplement*>](https://yaozheng-stat.github.io/files/Paper/JOE18_supp.pdf)
 
