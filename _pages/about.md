@@ -23,8 +23,6 @@ Our research team is actively looking for motivated students to work on the meth
   </tr>
 </table>
 
-
-
 ### Tensor Methods 
 
 <table  style="border:none" >
