@@ -12,12 +12,12 @@ redirect_from:
 
 ## Education
 
-Ph.D. (2017) and B.Sc. (2013), [*Department of Statistics and Actuarial Science*](https://saasweb.hku.hk/), [*University of Hong Kong*](https://www.hku.hk/)
+Ph.D. (2017) & B.Sc. (2013), [*Department of Statistics and Actuarial Science*](https://saasweb.hku.hk/), [*University of Hong Kong*](https://www.hku.hk/)
 
 ## Academic Positions Held
 
-* Assistant Professor, [*Department of Statistics*](https://statistics.uconn.edu/), [*University of Connecticut*](https://uconn.edu/), 2019 - present
-* Post-doc Researcher and Visiting Assistant Professor, Department of Statistics and School of Industrial Engineering, Purdue University, 2017 - 2019
+* Assistant Professor, [*Department of Statistics*](https://statistics.uconn.edu/), [*University of Connecticut*](https://uconn.edu/), 2019--present
+* Post-doc Researcher & Visiting Assistant Professor, Department of Statistics & School of Industrial Engineering, Purdue University, 2017--2019
 
 ## Honors and Awards
 
