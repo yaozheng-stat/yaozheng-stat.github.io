@@ -17,7 +17,7 @@ Ph.D. (2017) and B.Sc. (2013), [*Department of Statistics and Actuarial Science*
 ## Academic Positions Held
 
 * Assistant Professor, [*Department of Statistics*](https://statistics.uconn.edu/), [*University of Connecticut*](https://uconn.edu/), 2019 - present
-* Post-doc Researcher and Visiting Assistant Professor, [*Department of Statistics*](http://www.stat.purdue.edu) and School of Industrial Engineering, [*Purdue University*](http://www.purdue.edu), 2017 - 2019
+* Post-doc Researcher and Visiting Assistant Professor, Department of Statistics and School of Industrial Engineering, Purdue University, 2017 - 2019
 
 ## Honors and Awards
 
