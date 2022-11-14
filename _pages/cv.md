@@ -25,6 +25,4 @@ Ph.D. (2017) and B.Sc. (2013), [*Department of Statistics and Actuarial Science*
 - [*Institute of Mathematical Statistics (IMS)*](https://imstat.org/) New Researcher Travel Award, 2022
 - Excellence in Teaching Recognition, University of Connecticut, Fall 2019
 
-<br>
-
-**For more information, you can download a PDF copy of my CV [here]({{ site.url }}{{ site.baseurl }}/files/CV.pdf).**
+### For more information, you can download a PDF copy of my CV [here]({{ site.url }}{{ site.baseurl }}/files/CV.pdf).
