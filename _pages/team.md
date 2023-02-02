@@ -9,7 +9,7 @@ author_profile: true
 
 ## Current Members
 
-<img src="https://yaozheng-stat.github.io/images/profile_Shibo.jpg" align="left" style="zoom:20.1%;padding: 30px 50px 50px 20px;" /> 
+<img src="https://yaozheng-stat.github.io/images/profile_Shibo.jpg" align="left" style="zoom:27.07%;padding: 30px 50px 50px 20px;" /> 
 Shibo Li<br>
 PhD Student
 
