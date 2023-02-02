@@ -8,51 +8,21 @@ redirect_from:
   - /about.html
 ---
 
-I am an assistant professor in the [Department of Statistics](https://statistics.uconn.edu/) at the [University of Connecticut](https://uconn.edu/). Prior to joining UConn in 2019, I spent two years at Purdue University as a post-doc researcher and visiting assistant professor. My [research](https://yaozheng-stat.github.io/research/) interests focus on [time series analysis](https://en.wikipedia.org/wiki/Time_series) and its intersections with other areas in statistics (e.g., high-dimensional statistics, tensors, quantile regression), econometrics, machine learning, and other disciplines involving learning from temporal or dependent data.
+I am an assistant professor in the [Department of Statistics](https://statistics.uconn.edu/) at the [University of Connecticut](https://uconn.edu/), where I study the intersection of time series analysis, high-dimensional statistics, statistical learning, and econometrics. Here is my [Curriculum Vitae]({{ site.url }}{{ site.baseurl }}/files/CV.pdf).
 
-Our research team is actively looking for motivated students to work on the methodology, theory, and applications of time series analysis.
+The central theme of my research is to develop statistical methods for modeling temporal dynamics of data. My past research addresses various aspects in financial time series modeling. Recently, I have been focusing on big (or high-dimensional) time series data analysis. The high dimensionality and complex temporal structure in such data pose new statistical and computational challenges, and my research aims to develop novel methods and theory to address these issues.
 
-# Research Areas
+**I am actively looking for motivated graduate and undergraduate students who are interested in working on high-dimensional time series analysis and statistical machine learning.**
 
-### High-dimensional Time Series 
+---
 
-<table  style="border:none" >
-  <tr width="50%" style="border:none">
-    <td style="border:none">High-dimensional time series data are observations of $N$ interdependent variables over time, where $N$ is relatively large (may grow with the time length $T$).  Such high dimension presents a problem for modeling and inference due to the curse of dimensionality, highly complex dependence structure, and challenge of model interpretability. </td>
-    <td width="50%" style="border:none"><img src="https://yaozheng-stat.github.io/images/fig_macro20.png" align="float:center;"  style="zoom:100%;" /></td>
-  </tr>
-</table>
+## Recent News
 
-### Tensor Methods 
+- Jan 2023: I am fortunate and honored to be named the new [Makuch Faculty Fellow (January 2023-December 2024)](https://statistics.uconn.edu/2023/01/30/yao-zheng-has-been-named-the-new-makuch-faculty-fellow/).
+- Jan 2023: I served as a guest panelist for the [Virtual Time Series Seminar (google.com)](https://sites.google.com/view/vtss/)
+- Jan 2023: I start serving as the Secretary/Treasurer (2023-2024) of the [American Statistical Association’s Business and Economic Statistics Section](https://community.amstat.org/businessandeconomicstatisticssection/home).
 
-<table  style="border:none" >
-  <tr width="50%" style="border:none">
-    <td style="border:none">Tensors (or multidimensional arrays) are natural higher-order extensions of matrices, and many modern large time series datasets can be viewed as tensor-valued time series.  Tensor-based models achieve effective dimension reduction while extracting  intrinsic (dynamic) factor structures along different directions.</td>
-    <td width="50%" style="border:none"> <img src="https://yaozheng-stat.github.io/images/fig_tensor_ts.png"  align="float:center;"  style="zoom:100%;" /></td>
-  </tr>
-</table>
-
-### Quantile Regression for Conditional Heteroscedastic Time Series 
-
-<table  style="border:none" >
-  <tr width="50%" style="border:none">
-    <td style="border:none"> In risk management, market risk measures (e.g., the Value at Risk) are commonly constructed based on the quantiles of asset returns. Thus, a fundamental task for risk quantification is to forecast quantiles of financial time series.  To this end, powerful tools can be developed by combining quantile regression with time series modeling. </td>
-    <td width="50%" style="border:none"> <img src="https://yaozheng-stat.github.io/images/fig_ForecastPlot.png"  align="float:center;"  style="zoom:100%;" /></td>
-  </tr>
-</table>
-
-### Robust Inference for Heavy-tailed Time Series 
-
-<table  style="border:none" >
-  <tr width="50%" style="border:none">
-    <td style="border:none">Heavy-tailed distribution (or extreme values) is a key feature of financial time series data, which often renders commonly used inference tools invalid. It is thus important to develop methods that not only are robust to heavy tails but can efficiently capture the dynamic structure of the time series.</td>
-    <td width="50%" style="border:none"> <img src="https://yaozheng-stat.github.io/images/fig_QQplot.png"  align="float:center;"  style="zoom:100%;" /></td>
-  </tr>
-</table>
-
-Other Areas & Keywords: Nonasymptotic Theory for Time Series, Bootstrap Inference, Factor Modeling
-
-For more information, please visit my [Research](https://yaozheng-stat.github.io/research/) page.
+---
 
 
 ## Contact Information
