@@ -17,6 +17,6 @@ STAT/BIST 5515 Design of Experiments, Fall 2019-2022
 
 STAT/BIST 5815 Longitudinal Data Analysis, Spring 2020 & 2021
 
-###@ Purdue University:
+### @ Purdue University:
 
 STAT 511 Statistical Methods, Spring & Summer 2019
