@@ -17,7 +17,7 @@ The central theme of my research is to develop statistical methods for modeling 
 
 ## News
 
-- Jan 2023: I am fortunate and honored to be named the new [Makuch Faculty Fellow (January 2023-December 2024)](https://statistics.uconn.edu/2023/01/30/yao-zheng-has-been-named-the-new-makuch-faculty-fellow/).
+- Jan 2023: I am fortunate and honored to be named the new [Makuch Faculty Fellow (January 2023-December 2024)](https://clas.uconn.edu/faculty-staff/endowed-chairs/#makuch).
 - Jan 2023: I served as a guest panelist for the [Virtual Time Series Seminar](https://sites.google.com/view/vtss/).
 - Jan 2023: I start serving as the Secretary/Treasurer (2023-2024) of the [American Statistical Association’s Business and Economic Statistics Section](https://community.amstat.org/businessandeconomicstatisticssection/home).
 
