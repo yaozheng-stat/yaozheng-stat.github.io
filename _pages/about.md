@@ -17,6 +17,12 @@ The central theme of my research is to develop statistical methods for modeling 
 
 ## News
 
+- June 2023: Invited talk, 2023 ICSA Applied Statistics Symposium, University of
+  Michigan.
+- June 2023: I am excited to receive a new NSF grant ([DMS-2311178](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2311178)) as PI, 09/01/2023-08/31/2026.
+- June 2023: Our new paper [Quantile autoregressive conditional heteroscedasticity](https://arxiv.org/abs/2306.08794) is accepted by *Journal of the Royal Statistical Society: Series B*. 
+- June 2023: Invited talk, International Purdue Symposium on Statistics
+  (IPSS-2023), Purdue University.
 - May 2023: Invited talk, ASA/IMS Spring Research Conference, Banff Centre, Alberta, Canada.
 - Mar 2023: Statistics seminar, Department of Information Systems and Statistics, Zicklin School of Business, Baruch College.
 - Jan 2023: I am fortunate and honored to be named the new [Makuch Faculty Fellow (January 2023-December 2024)](https://clas.uconn.edu/faculty-staff/endowed-chairs/#makuch).
