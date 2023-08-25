@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am an assistant professor in the [Department of Statistics](https://statistics.uconn.edu/) at the [University of Connecticut](https://uconn.edu/), where I study the intersection of time series analysis, high-dimensional statistics, statistical learning, and econometrics. Here is my [Curriculum Vitae]({{ site.url }}{{ site.baseurl }}/files/CV.pdf).
+I am an assistant professor in the [Department of Statistics](https://statistics.uconn.edu/) at the [University of Connecticut](https://uconn.edu/), where I study the intersection of time series analysis, high-dimensional statistics, statistical learning, and econometrics. Here is my [Curriculum Vitae]({{ site.url }}{{ site.baseurl }}/files/CV_short.pdf).
 
 The central theme of my research is to develop statistical methods for modeling temporal dynamics of data. My past research addresses various aspects in financial time series modeling. Recently, I have been focusing on big (or high-dimensional) time series data analysis. The high dimensionality and complex temporal structure in such data pose new statistical and computational challenges, and my research aims to develop novel methods and theory to address these issues.
 
@@ -17,10 +17,12 @@ The central theme of my research is to develop statistical methods for modeling 
 
 ## News
 
+- August 2023: Invited talk, 2023 Joint Statistical Meetings, Toronto, Ontario, Canada.
+- June 2023: Seminar, Department of Statistics and Actuarial Science, University of Hong Kong
 - June 2023: Invited talk, 2023 ICSA Applied Statistics Symposium, University of
   Michigan.
 - June 2023: I am excited to receive a new NSF grant ([DMS-2311178](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2311178)) as PI, 09/01/2023-08/31/2026.
-- June 2023: Our new paper [Quantile autoregressive conditional heteroscedasticity](https://arxiv.org/abs/2306.08794) is accepted by *Journal of the Royal Statistical Society: Series B*. 
+- June 2023: Our new paper [Quantile autoregressive conditional heteroscedasticity](https://arxiv.org/abs/2306.08794) is accepted by *Journal of the Royal Statistical Society: Series B*. 
 - June 2023: Invited talk, International Purdue Symposium on Statistics
   (IPSS-2023), Purdue University.
 - May 2023: Invited talk, ASA/IMS Spring Research Conference, Banff Centre, Alberta, Canada.
