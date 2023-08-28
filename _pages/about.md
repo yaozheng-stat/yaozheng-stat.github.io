@@ -21,7 +21,7 @@ The central theme of my research is to develop statistical methods for modeling 
 - June 2023: Seminar, Department of Statistics and Actuarial Science, University of Hong Kong
 - June 2023: Invited talk, 2023 ICSA Applied Statistics Symposium, University of
   Michigan.
-- June 2023: I am excited to receive a new NSF grant (DMS-2311178) as PI, 09/01/2023-08/31/2026.
+- June 2023: I am excited to receive a new NSF grant ([DMS-2311178](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2311178)) as PI, 09/01/2023-08/31/2026.
 - June 2023: Our new paper [Quantile autoregressive conditional heteroscedasticity](https://arxiv.org/abs/2306.08794) is accepted by *Journal of the Royal Statistical Society: Series B*. 
 - June 2023: Invited talk, International Purdue Symposium on Statistics
   (IPSS-2023), Purdue University.
