@@ -12,7 +12,7 @@ I am an assistant professor in the [Department of Statistics](https://statistics
 
 The central theme of my research is to develop statistical methods for modeling temporal dynamics of data. My past research addresses various aspects in financial time series modeling. Recently, I have been focusing on big (or high-dimensional) time series data analysis. The high dimensionality and complex temporal structure in such data pose new statistical and computational challenges, and my research aims to develop novel methods and theory to address these issues.
 
-**I am actively looking for motivated graduate and undergraduate students who are interested in working on high-dimensional time series analysis and statistical machine learning.**
+**I am actively looking for motivated graduate students who are interested in working on high-dimensional time series analysis and statistical machine learning.**
 
 
 ## News
