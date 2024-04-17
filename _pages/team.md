@@ -15,18 +15,16 @@ PhD Student
 
 <br clear="left">
 
-Uladzimir Charniauski <br>
+<img src="https://yaozheng-stat.github.io/images/profile.png" align="left" style="zoom:27.07%;padding: 30px 50px 50px 20px;" /> Uladzimir Charniauski<br>
 Undergraduate Student (Applied Math/Statistics/Economics)
 
 
 ## Past Members
 
-Miles Kee [![Linkedin](https://yaozheng-stat.github.io/images/linkedin.png)](https://www.linkedin.com/in/miles-kee-b15258205/) <br>
+Miles Kee [![Linkedin](https://yaozheng-stat.github.io/images/linkedin.png)](https://www.linkedin.com/in/miles-kee-b15258205/),
 Undergraduate Student (Statistics), Summer Research Assistant (2022 & 2023)
 
-<br clear="left">
-
-Christine Nguyen [![Linkedin](https://yaozheng-stat.github.io/images/linkedin.png)](https://www.linkedin.com/in/christinenguyen0721/) <br>
+Christine Nguyen [![Linkedin](https://yaozheng-stat.github.io/images/linkedin.png)](https://www.linkedin.com/in/christinenguyen0721/),
 Undergraduate Student (Mathematics/Statistics), McNair Scholar 
 
 <br clear="left">
