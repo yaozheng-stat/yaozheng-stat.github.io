@@ -15,7 +15,7 @@ PhD Student
 
 <br clear="left">
 
-<img src="https://yaozheng-stat.github.io/images/profile_NanZ.jpeg" align="left" style="zoom:27.07%;padding: 30px 50px 50px 20px;" /> 
+<img src="https://yaozheng-stat.github.io/images/profile_NanZ.jpeg" align="left" style="zoom:22.22%;padding: 30px 50px 50px 20px;" /> 
 Nan Zhang<br>
 PhD Student
 
