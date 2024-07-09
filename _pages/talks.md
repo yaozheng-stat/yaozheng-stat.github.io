@@ -5,9 +5,11 @@ permalink: /talks/
 author_profile: true
 ---
 
+- Summer at Census Seminar, U.S. Census Bureau, *July 2024* (online).
+- The 37th New England Statistics Symposium (NESS 2024), University of Connecticut, *May 2024*.
 - Hunter College, CUNY, Department of Mathematics and Statistics, *February 2024* (online). 
 - University of Maryland Baltimore County (UMBC), Department of Mathematics and Statistics, *February 2024* (online). 
-- CMStatistics 2023, HTW Berlin, University of Applied Sciences, Berlin, Germany, *December 2023*  (online). 
+- CMStatistics 2023, Special Invited Session, HTW Berlin, University of Applied Sciences, Berlin, Germany, *December 2023*  (online). 
 - 2023 Joint Statistical Meetings, Toronto, Ontario, Canada, *August 2023*.
 - Department of Statistics and Acturial Science, University of Hong Kong, *June 2023*.
 - 2023 ICSA Applied Statistics Symposium, University of Michigan, *June 2023*.		
