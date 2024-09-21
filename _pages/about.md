@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am an assistant professor in the [Department of Statistics](https://statistics.uconn.edu/) at the [University of Connecticut](https://uconn.edu/), where I study the intersection of time series analysis, high-dimensional statistics, statistical learning, and econometrics. Here is my [Curriculum Vitae]({{ site.url }}{{ site.baseurl }}/files/CV_short.pdf).
+I am an assistant professor in the [Department of Statistics](https://statistics.uconn.edu/) at the [University of Connecticut](https://uconn.edu/), where I study the intersection of time series analysis, high-dimensional statistics, statistical learning, and econometrics. Here is my short [Curriculum Vitae]({{ site.url }}{{ site.baseurl }}/files/CV_short.pdf).
 
 The central theme of my research is to develop statistical methods for modeling temporal dynamics of data. My past research addresses various aspects in financial time series modeling. Recently, I have been focusing on big (or high-dimensional) time series data analysis. The high dimensionality and complex temporal structure in such data pose new statistical and computational challenges, and I aim to develop novel methods and theory to address these issues. 
 
