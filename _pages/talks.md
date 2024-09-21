@@ -5,7 +5,8 @@ permalink: /talks/
 author_profile: true
 ---
 
-- Summer at Census Seminar, U.S. Census Bureau, *July 2024* (online).
+- 2024 Joint Statistical Meetings, Portland, Oregon, *August 2024*.
+- Summer at Census Seminar, U.S. Census Bureau, *June 2024* (online).
 - The 37th New England Statistics Symposium (NESS 2024), University of Connecticut, *May 2024*.
 - Hunter College, CUNY, Department of Mathematics and Statistics, *February 2024* (online). 
 - University of Maryland Baltimore County (UMBC), Department of Mathematics and Statistics, *February 2024* (online). 

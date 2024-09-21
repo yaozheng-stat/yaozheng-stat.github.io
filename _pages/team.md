@@ -9,6 +9,8 @@ author_profile: true
 
 ## Current Members
 
+### Graduate Students
+
 <img src="https://yaozheng-stat.github.io/images/profile_Shibo.jpg" align="left" style="zoom:27.07%;padding: 30px 50px 50px 20px;" /> 
 Shibo Li<br>
 PhD Student
@@ -21,8 +23,15 @@ PhD Student
 
 <br clear="left">
 
+### Undergraduate Students
+
 <img src="https://yaozheng-stat.github.io/images/profile.png" align="left" style="zoom:22.22%;padding: 30px 50px 50px 20px;" /> Uladzimir Charniauski<br>
 Undergraduate Student (Applied Math/Statistics/Economics)
+
+<br clear="left">
+
+<img src="https://yaozheng-stat.github.io/images/profile_IsabelleP.jpeg" align="left" style="zoom:10.85%;padding: 30px 50px 50px 20px;" /> Isabelle Perez <br>
+Undergraduate Student (Mathematics/Statistics/Computer Science)
 
 <br clear="left">
 
