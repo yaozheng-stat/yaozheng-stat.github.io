@@ -8,14 +8,13 @@ main:
     # url: /research/
 
   - title: "Publications"
-    url: /publications/   
-
-  - title: "Talks"
-    url: /talks/   
+    url: /publications/    
     
   - title: "Team"
     url: /team/
-        
+  
+  - title: "Talks"
+    url: /talks/  
   # - title: "Blog Posts"
     # url: /year-archive/
     
