@@ -23,7 +23,7 @@ PhD Student
 
 ## Undergraduate Students
 
-<img src="https://yaozheng-stat.github.io/images/profile.png" align="left" style="zoom:22.22%;padding: 30px 50px 50px 20px;" /> Uladzimir Charniauski<br>
+<img src="https://yaozheng-stat.github.io/images/profile_UladzimirC.png" align="left" style="zoom:22.22%;padding: 30px 50px 50px 20px;" /> Uladzimir Charniauski<br>
 Undergraduate Student (Applied Math/Statistics/Economics)
 
 <br clear="left">
