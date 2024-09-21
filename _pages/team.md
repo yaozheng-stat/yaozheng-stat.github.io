@@ -1,15 +1,13 @@
 ---
 layout: archive
-title: "Team"
+title: "Current Members"
 permalink: /team/
 author_profile: true
 ---
 
 {% include base_path %}
 
-## Current Members
-
-### Graduate Students
+## Graduate Students
 
 <img src="https://yaozheng-stat.github.io/images/profile_Shibo.jpg" align="left" style="zoom:27.07%;padding: 30px 50px 50px 20px;" /> 
 Shibo Li<br>
@@ -23,7 +21,7 @@ PhD Student
 
 <br clear="left">
 
-### Undergraduate Students
+## Undergraduate Students
 
 <img src="https://yaozheng-stat.github.io/images/profile.png" align="left" style="zoom:22.22%;padding: 30px 50px 50px 20px;" /> Uladzimir Charniauski<br>
 Undergraduate Student (Applied Math/Statistics/Economics)
