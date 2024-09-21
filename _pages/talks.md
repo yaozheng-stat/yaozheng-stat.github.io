@@ -25,11 +25,11 @@ author_profile: true
 - CMStatistics 2021, King's College London, *December 2021*  (online).
 - Shanghai University of Finance and Economics, School of Statistics and Management, *December 2021*  (online).
 - The 34th New England Statistics Symposium (NESS 2021), University of Rhode Island, *October 2021* (online). 
-- ISBISKOCHI2020, Cochin University of Science \& Technology, India, *December 2020* (online).
+- ISBISKOCHI2020, Cochin University of Science & Technology, India, *December 2020* (online).
 - University of Maryland, Department of Mathematics, *September 2020* (online). 	
 - University of Missouri, Department of Statistics, *September 2020* (online). 
 - University of Connecticut, Department of Economics, *September 2020* (online).
 - Boston College, Department of Economics, *December 2019*. 
 - The 33rd New England Statistics Symposium (NESS 2019), University of Connecticut, *May 2019*.
-- The 1st International Conference on Econometrics \& Statistics (EcoSta2017), Hong Kong University of Science and Technology, Hong Kong, *June 2017*. 
+- The 1st International Conference on Econometrics & Statistics (EcoSta2017), Hong Kong University of Science and Technology, Hong Kong, *June 2017*. 
 - The 6th International IMS-FIPS (Finance, Insurance, Probability and Statistics) Workshop, University of Alberta, Canada, *July 2016*. 
