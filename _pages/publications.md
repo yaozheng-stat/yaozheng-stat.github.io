@@ -31,4 +31,5 @@ author_profile: true
 - [On Fréchet autoregressive conditional duration models](https://yaozheng-stat.github.io/files/Paper/JSPI16.pdf) (with Yang Li and Guodong Li), *Journal of Statistical Planning and Inference*, 175, 51–66, 2016.
 
 ### Undergraduate Publications
-Charniauski, U. and Zheng, Y. [Autoregressive bandits in near-unstable or unstable environment](https://doi.org/10.33697/ajur.2024.116), *American Journal of Undergraduate Research*, 21, 15-25, 2024.
+
+- Charniauski, U. and Zheng, Y. [Autoregressive bandits in near-unstable or unstable environment](https://doi.org/10.33697/ajur.2024.116), *American Journal of Undergraduate Research*, 21, 15-25, 2024.
