@@ -32,4 +32,4 @@ author_profile: true
 
 ### Undergraduate Publications
 
-- Charniauski, U. and Zheng, Y. [Autoregressive bandits in near-unstable or unstable environment](https://doi.org/10.33697/ajur.2024.116), *American Journal of Undergraduate Research*, 21, 15-25, 2024.
+- [Autoregressive bandits in near-unstable or unstable environment](https://doi.org/10.33697/ajur.2024.116) (with undergraduate student Uladzimir Charniauski), *American Journal of Undergraduate Research*, 21, 15-25, 2024.
