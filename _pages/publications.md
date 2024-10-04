@@ -30,6 +30,6 @@ author_profile: true
 - [Diagnostic checking for Weibull autoregressive conditional duration models](https://yaozheng-stat.github.io/files/Paper/BookChap16.pdf) (with Yang Li, Wai Keung Li, and Guodong Li), In Li, W.K., Stanford, D.A., Yu, H. (Eds.), *Advances in Time Series Methods and Applications: the A. Ian McLeod Festschrift.* Springer-Verlag, New York, 2016
 - [On Fréchet autoregressive conditional duration models](https://yaozheng-stat.github.io/files/Paper/JSPI16.pdf) (with Yang Li and Guodong Li), *Journal of Statistical Planning and Inference*, 175, 51–66, 2016.
 
-# Undergraduate Publications{#undergrad}
+# Undergraduate Publications
 
 - [Autoregressive bandits in near-unstable or unstable environment](https://doi.org/10.33697/ajur.2024.116) (undergraduate mentee: Uladzimir Charniauski), *American Journal of Undergraduate Research*, 21, 15-25, 2024.
