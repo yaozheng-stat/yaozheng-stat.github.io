@@ -5,6 +5,9 @@ permalink: /talks/
 author_profile: true
 ---
 
+- 2024 IMS
+  International Conference on Statistics and Data Science (ICSDS), Nice, France, *December
+  2024*.
 - 2024 Joint Statistical Meetings, Portland, Oregon, *August 2024*.
 - Summer at Census Seminar, U.S. Census Bureau, *June 2024* (online).
 - The 37th New England Statistics Symposium (NESS 2024), University of Connecticut, *May 2024*.
