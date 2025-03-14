@@ -12,7 +12,7 @@ I am an assistant professor in the [Department of Statistics](https://statistics
 
 The central theme of my research is to develop statistical methods for modeling temporal dynamics of data. My past research addresses various aspects in financial time series modeling. Recently, I have been focusing on big (or high-dimensional) time series data analysis. The high dimensionality and complex temporal structure in such data pose new statistical and computational challenges, and I aim to develop novel methods and theory to address these issues. 
 
-My research is partially supported by the National Science Foundation (DMS-2311178), UConn OVPR Research Excellence Program, and the Makuch Faculty Fellowship.
+My research has been supported by the National Science Foundation through an NSF CAREER award (DMS-2443145) and a standard grant (DMS-2311178), as well as by the UConn OVPR Research Excellence Program and the Makuch Faculty Fellowship. 
 
 **I am actively looking for motivated PhD students who are interested in working on time series analysis and statistical machine learning.**
 
