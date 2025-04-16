@@ -10,7 +10,7 @@ author_profile: true
 ### High-dimensional Time Series & Tensor Methods
 
 - [An interpretable and efficient infinite-order vector autoregressive model for
-  high-dimensional time series](https://arxiv.org/abs/2209.01172), *Journal of the American Statistical Association*, to appear. 
+  high-dimensional time series](https://arxiv.org/abs/2209.01172), *Journal of the American Statistical Association*, 120, 212-225, 2025. 
 - [Supervised factor modeling for
   high-dimensional linear time series](https://yaozheng-stat.github.io/files/Paper/JOE25_VARinf.pdf) (with Feiqing Huang, Kexin Lu and Guodong Li), *Journal of Econometrics*, to appear. [<*Supplement*>](https://yaozheng-stat.github.io/files/Paper/JOE25_VARinf_supp.pdf)  [<*Python Code*>](https://github.com/neithen-Lu/Supervised-Factor-Modeling/tree/main)
 - [High-dimensional low-rank tensor autoregressive time series modeling](https://arxiv.org/abs/2101.04276) (with Di Wang and Guodong Li), *Journal of Econometrics*, 238, 105544, 2024.
