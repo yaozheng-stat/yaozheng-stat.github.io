@@ -21,8 +21,9 @@ PhD Student
 
 <br clear="left">
 
-<img src="https://yaozheng-stat.github.io/images/profile_IsabelleP.jpeg" align="left" style="zoom:10.85%;padding: 30px 50px 50px 20px;" /> Isabelle Perez <br>
-Undergraduate Student (Mathematics/Statistics/Computer Science)
+<img src="https://yaozheng-stat.github.io/images/profile_IsabelleP.jpeg" align="left" style="zoom:10.85%;padding: 30px 50px 50px 20px;" /> 
+Isabelle Perez <br>
+PhD Student
 
 <br clear="left">
 
