@@ -14,8 +14,6 @@ The central theme of my research is to develop statistical methods for modeling 
 
 My research has been supported by the National Science Foundation through an NSF CAREER award (DMS-2443145) and a standard grant (DMS-2311178), as well as by the UConn OVPR Research Excellence Program and the Makuch Faculty Fellowship. 
 
-**I am actively looking for motivated PhD students who are interested in working on time series analysis and statistical machine learning.**
-
 
 ## Contact Information
 
