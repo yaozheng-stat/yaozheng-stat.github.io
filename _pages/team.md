@@ -15,7 +15,7 @@ PhD Student
 
 <br clear="left">
 
-<img src="https://yaozheng-stat.github.io/images/profile.png" align="left" style="zoom:22.22%;padding: 30px 50px 50px 20px;" /> 
+<img src="https://yaozheng-stat.github.io/images/profile_Banani.jpg" align="left" style="zoom:31.31%;padding: 30px 50px 50px 20px;" /> 
 Banani Bera<br>
 PhD Student
 
