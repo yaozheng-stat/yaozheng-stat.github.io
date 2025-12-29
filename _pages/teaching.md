@@ -11,7 +11,7 @@ author_profile: true
 
 STAT 3675Q Statistical Computing, *Spring 2022 & 2023, Fall 2024 & 2025*.
 
-STAT 4825/5825 Applied Time Series, *Fall 2021--2023 & 2025, Spring 2024 & 2025*.
+STAT 4825/5825 Applied Time Series, *Fall 2021--2023 & 2025, Spring 2024--2026*.
 
 STAT 3515Q Design of Experiments, *Spring 2025*.
 

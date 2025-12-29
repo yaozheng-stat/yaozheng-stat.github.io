@@ -5,6 +5,12 @@ permalink: /talks/
 author_profile: true
 ---
 
+- Department of Mathematics \& Statistics, Texas Tech University, *November 2025* (online).
+  
+- DahShu Data Science Symposium 2025, University of Connecticut, *October 2025*.
+  
+- 2025 NBER-NSF Time Series Conference, Rutgers University, *September 2025*.
+  
 - ICSA Applied Statistics Symposium, University of Connecticut, *June 2025*.	
   
 - The 38th New England Statistics Symposium (NESS 2025), Yale University, *June 2025*.
@@ -17,15 +23,15 @@ author_profile: true
 
 - The 37th New England Statistics Symposium (NESS 2024), University of Connecticut, *May 2024*.
 
-- Hunter College, CUNY, Department of Mathematics and Statistics, *February 2024* (online). 
+- Department of Mathematics and Statistics, Hunter College, CUNY, *February 2024* (online). 
 
-- University of Maryland Baltimore County (UMBC), Department of Mathematics and Statistics, *February 2024* (online). 
+- Department of Mathematics and Statistics, University of Maryland Baltimore County (UMBC), *February 2024* (online). 
 
 - CMStatistics 2023, Special Invited Session, HTW Berlin, University of Applied Sciences, Berlin, Germany, *December 2023*  (online). 
 
 - Joint Statistical Meetings, Toronto, Ontario, Canada, *August 2023*.
 
-- Department of Statistics and Acturial Science, University of Hong Kong, *June 2023*.
+- Department of Statistics and Actuarial Science, University of Hong Kong,  *June 2023*.
 
 - ICSA Applied Statistics Symposium, University of Michigan, *June 2023*.		
 
@@ -43,23 +49,23 @@ author_profile: true
 
 - The 35th New England Statistics Symposium (NESS 2022), University of Connecticut, *May 2022*.
 
-- SUNY Binghamton University, Department of Mathematics and Statistics, *May 2022* (online).  
+- Department of Mathematics and Statistics, SUNY Binghamton University, *May 2022* (online).  
 
 - CMStatistics 2021, King's College London, *December 2021*  (online).
 
-- Shanghai University of Finance and Economics, School of Statistics and Management, *December 2021*  (online).
+- School of Statistics and Management, Shanghai University of Finance and Economics,  *December 2021*  (online).
 
 - The 34th New England Statistics Symposium (NESS 2021), University of Rhode Island, *October 2021* (online). 
 
 - ISBISKOCHI2020, Cochin University of Science & Technology, India, *December 2020* (online).
 
-- University of Maryland, Department of Mathematics, *September 2020* (online). 	
+- Department of Mathematics, University of Maryland, *September 2020* (online). 	
 
-- University of Missouri, Department of Statistics, *September 2020* (online). 
+- Department of Statistics, University of Missouri, *September 2020* (online). 
 
-- University of Connecticut, Department of Economics, *September 2020* (online).
+- Department of Economics, University of Connecticut,  *September 2020* (online).
 
-- Boston College, Department of Economics, *December 2019*. 
+- Department of Economics, Boston College, December 2019*. 
 
 - The 33rd New England Statistics Symposium (NESS 2019), University of Connecticut, *May 2019*.
 
